@@ -1,0 +1,18 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TO PLAY THE GAME:
+UNZIP FOLDER------>RUN 14BCE0437_403_439_661.EXE FILE TO PLAY THE GAME
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TO SEE THE MODELS IN THE UNITY FRAMEWORK:
+OPEN ASSETS FOLDER------>OPEN SCENES----->RUN PlayingField.unity (system must have unity framework installed)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+VIDEO(MP4) FILE SHOWS ADRY RUN OF THE GAME(LEVEL 1)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+submitted by:
+14bce0403-Nafis
+14bce0437-Sarthak
+14bce0439-Aditya
+14bce0661-Rohit
